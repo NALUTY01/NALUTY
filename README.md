@@ -1,1 +1,11 @@
-♡
+WELCOME TO NALUTY TOOLS
+TELE @J11IU
+THE CHANNEL https://t.me/H12H5
+TOOL IS FREE
+rm  -rf NALUTY
+
+git clone https://github.com/NALUTY01/NALUTY
+
+cd NALUTY
+
+python MOAD-V5.py
